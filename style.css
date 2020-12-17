@@ -1,0 +1,47 @@
+#aboutme, #education, #projects, #hobbies, #experience, #contactMe, header{
+    margin-left: 1em;
+    padding-top: 5em;
+}
+
+header{
+    color: blue;
+}
+
+header p{
+    color: black;
+    padding: 1em 10em 0em 
+}
+
+#homeButtons{
+    display: table;
+    margin: 0 auto;
+}
+
+#Profiler{
+    padding-top: 100px;
+    text-align: center;
+    }
+
+#education {
+    background-color: lightblue;
+}
+
+#projects {
+    background-color: lightgreen;
+}
+
+#Hobbies {
+    background-color: lightyellow;
+}
+
+#contactInfo {
+    background-color: lightsalmon;
+}
+
+#refbody {
+    padding-top: 100px;
+    
+}
+
+
+
